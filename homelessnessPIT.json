@@ -1,0 +1,1584 @@
+
+{
+  "15PIT": { 
+    "ethnicity" : {
+      "ethnicity15" : {
+        "percentWhite" : 0.73,
+        "countWhite" : 2617,
+        "percentPopOfColor" : 0.41,
+        "countPopOfColor" : 1477,
+        "percentAI" : 0.02,
+        "countAI" : 82,
+        "percentAsian" : 0.02,
+        "countAsian" : 59,
+        "percentBlack" : 0.24,
+        "countBlack" : 861,
+        "percentLatino" : 0.11,
+        "countLatino" : 389,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 86,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 207,
+        "pageInPIT" : 14
+      },
+      "ethUnsheltered15" : {
+        "percentWhite" : 0.74,
+        "countWhite" : 1346,
+        "percentPopOfColor" : 0.39,
+        "countPopOfColor" : 708,
+        "percentAI" : 0.03,
+        "countAI" : 48,
+        "percentAsian" : 0.01,
+        "countAsian" : 24,
+        "percentBlack" : 0.22,
+        "countBlack" : 396,
+        "percentLatino" : 0.11,
+        "countLatino" : 194,
+        "percentHawaiian" : 0.03,
+        "countHawaiian" : 46,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 67,
+        "pageInPIT" : 18
+      },
+      "ethEmergencyShelter15" : {
+        "percentWhite" : 0.66,
+        "countWhite" : 548,
+        "percentPopOfColor" : 0.49,
+        "countPopOfColor" : 406,
+        "percentAI" : 0.02,
+        "countAI" : 19,
+        "percentAsian" : 0.02,
+        "countAsian" : 13,
+        "percentBlack" : 0.29,
+        "countBlack" : 239,
+        "percentLatino" : 0.13,
+        "countLatino" : 107,
+        "percentHawaiian" : 0.03,
+        "countHawaiian" : 28,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 43,
+        "pageInPIT" : 18
+      },
+      "ethTransitionalHousing15" : {
+        "percentWhite" : 0.77,
+        "countWhite" : 723,
+        "percentPopOfColor" : 0.38,
+        "countPopOfColor" : 363,
+        "percentAI" : 0.02,
+        "countAI" : 15,
+        "percentAsian" : 0.02,
+        "countAsian" : 22,
+        "percentBlack" : 0.24,
+        "countBlack" : 226,
+        "percentLatino" : 0.09,
+        "countLatino" : 88,
+        "percentHawaiian" : 0.01,
+        "countHawaiian" : 12,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 97,
+        "pageInPIT" : 18
+      }
+    },
+    "ageHouseComposition" : {
+      "individualAdultTotals15" : {
+        "unsheltered" : 1733,
+        "emergencyShelter" : 657,
+        "transitionalHousing" : 753,
+        "total" : 3143,
+        "pageInPIT" : 20
+      },
+      "individual18to24adult15" : {
+        "unsheltered" : 134,
+        "emergencyShelter" : 72,
+        "transitionalHousing" : 55,
+        "total" : 261,
+        "pageInPIT" : 20
+      },
+      "individual24+Adult15" : {
+        "unsheltered" : 1577,
+        "emergencyShelter" : 562,
+        "transitionalHousing" : 691,
+        "total" : 2830,
+        "pageInPIT" : 20
+      },
+      "individualNoAgeAdult15" : {
+        "unsheltered" : 22,
+        "emergencyShelter" : 23,
+        "transitionalHousing" : 7,
+        "total" : 52,
+        "pageInPIT" : 20
+      },
+      "familyWithKidsTotals15" : {
+        "unsheltered" : 152,
+        "emergencyShelter" : 213,
+        "transitionalHousing" : 288,
+        "total" : 653,
+        "pageInPIT" : 20
+      },
+      "familyWithKidsUnderEighteen15" : {
+        "unsheltered" : 76,
+        "emergencyShelter" : 129,
+        "transitionalHousing" : 164,
+        "total" : 369,
+        "pageInPIT" : 20
+      },
+      "family18to24Adults15" : {
+        "unsheltered" : 11,
+        "emergencyShelter" : 12,
+        "transitionalHousing" : 28,
+        "total" : 51,
+        "pageInPIT" : 20
+      },
+      "family24+Adults15" : {
+        "unsheltered" : 65,
+        "emergencyShelter" : 72,
+        "transitionalHousing" : 96,
+        "total" : 233,
+        "pageInPIT" : 20
+      },
+      "unaccompaniedYouthUnder18-15" : {
+        "unsheltered" : 2,
+        "emergencyShelter" : 2,
+        "transitionalHousing" : 1,
+        "total" : 5,
+        "pageInPIT" : "20,22"
+      },
+      "unaccompaniedYouth18to24-15" : {
+        "unsheltered" : 134,
+        "emergencyShelter" : 72,
+        "transitionalHousing" : 55,
+        "total" : 261,
+        "pageInPIT" : 22
+      }
+    },
+    "gender": {
+      "count_totalMale15" : {
+        "unsheltered" : 1249,
+        "emergencyShelter" : 497,
+        "transitionalHousing" : 657,
+        "total" : 2403,
+        "pageInPIT" : 24
+      },
+      "count_totalFemale15" : {
+        "unsheltered" : 594,
+        "emergencyShelter" : 365,
+        "transitionalHousing" : 379,
+        "total" : 1338,
+        "pageInPIT" : 24
+      },
+      "count_totalTrans15" : {
+        "unsheltered" : 11,
+        "emergencyShelter" : 5,
+        "transitionalHousing" : 4,
+        "total" : 20,
+        "pageInPIT" : 24
+      },
+      "count_totalOther15" : {
+        "unsheltered" : 33,
+        "emergencyShelter" : 5,
+        "transitionalHousing" : 2,
+        "total" : 40,
+        "pageInPIT" : 24
+      },
+      "count_childMale15" : {
+        "unsheltered" : 48,
+        "emergencyShelter" : 61,
+        "transitionalHousing" : 86,
+        "total" : 195,
+        "pageInPIT" : ""
+      },
+      "count_childFemale15" : {
+        "unsheltered" : 28,
+        "emergencyShelter" : 70,
+        "transitionalHousing" : 79,
+        "total" : 177,
+        "pageInPIT" : ""
+      },
+      "count_childTrans15" : {
+        "unsheltered" : 0,
+        "emergencyShelter" : 0,
+        "transitionalHousing" : 0,
+        "total" : 0,
+        "pageInPIT" : ""
+      },
+      "count_childOther15" : {
+        "unsheltered" : 4,
+        "emergencyShelter" : 0,
+        "transitionalHousing" : 0,
+        "total" : 4,
+        "pageInPIT" : ""
+      },
+      "count_adultMale15" : {
+        "unsheltered" : 1201,
+        "emergencyShelter" : 436,
+        "transitionalHousing" : 571,
+        "total" : 2208,
+        "pageInPIT" : 24
+      },
+      "count_adultFemale15" : {
+        "unsheltered" : 566,
+        "emergencyShelter" : 295,
+        "transitionalHousing" : 300,
+        "total" : 1161,
+        "pageInPIT" : 24
+      },
+      "count_adultTrans15" : {
+        "unsheltered" : 11,
+        "emergencyShelter" : 5,
+        "transitionalHousing" : 4,
+        "total" : 20,
+        "pageInPIT" : 24
+      },
+      "count_adultOther15" : {
+        "unsheltered" : 29,
+        "emergencyShelter" : 5,
+        "transitionalHousing" : 2,
+        "total" : 36,
+        "pageInPIT" : 24
+      },
+      "prop_totalMale15" : {
+        "unsheltered" : 0.32859773743751647,
+        "emergencyShelter" : 0.13075506445672191,
+        "transitionalHousing" : 0.1728492501973165,
+        "total" : 0.6322020520915549,
+        "pageInPIT" : ""
+      },
+      "prop_totalFemale15" : {
+        "unsheltered" : 0.15627466456195738,
+        "emergencyShelter" : 0.09602736122073138,
+        "transitionalHousing" : 0.09971060247303341,
+        "total" : 0.35201262825572216,
+        "pageInPIT" : ""
+      },
+      "prop_totalTrans15" : {
+        "unsheltered" : 0.0028939752696658773,
+        "emergencyShelter" : 0.0013154433043935806,
+        "transitionalHousing" : 0.0010523546435148646,
+        "total" : 0.005261773217574322,
+        "pageInPIT" : ""
+      },
+      "prop_totalOther15" : {
+        "unsheltered" : 0.008681925808997633,
+        "emergencyShelter" : 0.0013154433043935806,
+        "transitionalHousing" : 0.0005261773217574323,
+        "total" : 0.010523546435148644,
+        "pageInPIT" : 1.0000000000000002
+      },
+      "prop_childMale15" : {
+        "unsheltered" : 0.012628255722178374,
+        "emergencyShelter" : 0.016048408313601683,
+        "transitionalHousing" : 0.022625624835569586,
+        "total" : 0.05130228887134965,
+        "pageInPIT" : ""
+      },
+      "prop_childFemale15" : {
+        "unsheltered" : 0.007366482504604052,
+        "emergencyShelter" : 0.01841620626151013,
+        "transitionalHousing" : 0.020784004209418575,
+        "total" : 0.04656669297553275,
+        "pageInPIT" : ""
+      },
+      "prop_childTrans15" : {
+        "unsheltered" : 0,
+        "emergencyShelter" : 0,
+        "transitionalHousing" : 0,
+        "total" : 0,
+        "pageInPIT" : ""
+      },
+      "prop_childOther15" : {
+        "unsheltered" : 0.0010523546435148646,
+        "emergencyShelter" : 0,
+        "transitionalHousing" : 0,
+        "total" : 0.0010523546435148646,
+        "pageInPIT" : ""
+      },
+      "prop_adultMale15" : {
+        "unsheltered" : 0.31596948171533806,
+        "emergencyShelter" : 0.11470665614312023,
+        "transitionalHousing" : 0.1502236253617469,
+        "total" : 0.5808997632202052,
+        "pageInPIT" : ""
+      },
+      "prop_adultFemale15" : {
+        "unsheltered" : 0.14890818205735332,
+        "emergencyShelter" : 0.07761115495922126,
+        "transitionalHousing" : 0.07892659826361484,
+        "total" : 0.30544593528018943,
+        "pageInPIT" : ""
+      },
+      "prop_adultTrans15" : {
+        "unsheltered" : 0.0028939752696658773,
+        "emergencyShelter" : 0.0013154433043935806,
+        "transitionalHousing" : 0.0010523546435148646,
+        "total" : 0.005261773217574322,
+        "pageInPIT" : ""
+      },
+      "prop_adultOther15" : {
+        "unsheltered" : 0.007629571165482768,
+        "emergencyShelter" : 0.0013154433043935806,
+        "transitionalHousing" : 0.0005261773217574323,
+        "total" : 0.009471191791633781,
+        "pageInPIT" : 1
+      }
+    },
+    "disability": {
+      "count_mentalHealth15" : {
+        "unsheltered" : 363,
+        "emergencyShelter" : 163,
+        "transitionalHousing" : 261,
+        "total" : 787,
+        "pageInPIT" : 27
+      },
+      "count_Not_mentalHealth15" : {
+        "unsheltered" : 1524,
+        "emergencyShelter" : 709,
+        "transitionalHousing" : 781,
+        "total" : 3014,
+        "pageInPIT" : 3801
+      },
+      "count_substanceAbuse15" : {
+        "unsheltered" : 351,
+        "emergencyShelter" : 143,
+        "transitionalHousing" : 570,
+        "total" : 1064,
+        "pageInPIT" : 27
+      },
+      "count_Not_substanceAbuse15" : {
+        "unsheltered" : 1536,
+        "emergencyShelter" : 729,
+        "transitionalHousing" : 472,
+        "total" : 2737,
+        "pageInPIT" : ""
+      },
+      "count_developmental15" : {
+        "unsheltered" : 12,
+        "emergencyShelter" : 8,
+        "transitionalHousing" : 1,
+        "total" : 21,
+        "pageInPIT" : 27
+      },
+      "count_Not_developmental15" : {
+        "unsheltered" : 1875,
+        "emergencyShelter" : 864,
+        "transitionalHousing" : 1041,
+        "total" : 3780,
+        "pageInPIT" : ""
+      },
+      "count_HIV15" : {
+        "unsheltered" : 14,
+        "emergencyShelter" : 6,
+        "transitionalHousing" : 12,
+        "total" : 32,
+        "pageInPIT" : 27
+      },
+      "count_Not_HIV15" : {
+        "unsheltered" : 1873,
+        "emergencyShelter" : 866,
+        "transitionalHousing" : 1030,
+        "total" : 3769,
+        "pageInPIT" : ""
+      },
+      "count_cronicHealth15" : {
+        "unsheltered" : 120,
+        "emergencyShelter" : 27,
+        "transitionalHousing" : 51,
+        "total" : 198,
+        "pageInPIT" : 27
+      },
+      "count_Not_cronicHealth15" : {
+        "unsheltered" : 1767,
+        "emergencyShelter" : 845,
+        "transitionalHousing" : 991,
+        "total" : 3603,
+        "pageInPIT" : ""
+      },
+      "prop_mentalHealth15" : {
+        "unsheltered" : 0.09550118389897395,
+        "emergencyShelter" : 0.04288345172323073,
+        "transitionalHousing" : 0.06866614048934491,
+        "total" : 0.2070507761115496,
+        "pageInPIT" : 1
+      },
+      "prop_Not_mentalHealth15" : {
+        "unsheltered" : 0.40094711917916337,
+        "emergencyShelter" : 0.18652986056300974,
+        "transitionalHousing" : 0.2054722441462773,
+        "total" : 0.7929492238884505,
+        "pageInPIT" : ""
+      },
+      "prop_substanceAbuse15" : {
+        "unsheltered" : 0.09234411996842937,
+        "emergencyShelter" : 0.037621678505656404,
+        "transitionalHousing" : 0.1499605367008682,
+        "total" : 0.27992633517495397,
+        "pageInPIT" : 1
+      },
+      "prop_Not_substanceAbuse15" : {
+        "unsheltered" : 0.40410418310970797,
+        "emergencyShelter" : 0.19179163378058406,
+        "transitionalHousing" : 0.12417784793475402,
+        "total" : 0.7200736648250461,
+        "pageInPIT" : ""
+      },
+      "prop_developmental15" : {
+        "unsheltered" : 0.0031570639305445935,
+        "emergencyShelter" : 0.002104709287029729,
+        "transitionalHousing" : 0.00026308866087871614,
+        "total" : 0.0055248618784530384,
+        "pageInPIT" : 1
+      },
+      "prop_Not_developmental15" : {
+        "unsheltered" : 0.49329123914759276,
+        "emergencyShelter" : 0.22730860299921074,
+        "transitionalHousing" : 0.27387529597474347,
+        "total" : 0.994475138121547,
+        "pageInPIT" : ""
+      },
+      "prop_HIV15" : {
+        "unsheltered" : 0.003683241252302026,
+        "emergencyShelter" : 0.0015785319652722968,
+        "transitionalHousing" : 0.0031570639305445935,
+        "total" : 0.008418837148118917,
+        "pageInPIT" : 1
+      },
+      "prop_Not_HIV15" : {
+        "unsheltered" : 0.4927650618258353,
+        "emergencyShelter" : 0.22783478032096816,
+        "transitionalHousing" : 0.27098132070507763,
+        "total" : 0.9915811628518811,
+        "pageInPIT" : ""
+      },
+      "prop_cronicHealth15" : {
+        "unsheltered" : 0.03157063930544594,
+        "emergencyShelter" : 0.007103393843725336,
+        "transitionalHousing" : 0.013417521704814523,
+        "total" : 0.05209155485398579,
+        "pageInPIT" : 1
+      },
+      "prop_Not_cronicHealth15" : {
+        "unsheltered" : 0.4648776637726914,
+        "emergencyShelter" : 0.22230991844251513,
+        "transitionalHousing" : 0.2607208629308077,
+        "total" : 0.9479084451460142,
+        "pageInPIT" : ""
+      }
+    },
+    "veterans": {
+      "count_veterans15" : {
+        "unsheltered" : 199,
+        "emergencyShelter" : 58,
+        "transitionalHousing" : 165,
+        "total" : 422,
+        "pageInPIT" : 29
+      },
+      "count_NOT_veteran15" : {
+        "unsheltered" : 1688,
+        "emergencyShelter" : 814,
+        "transitionalHousing" : 877,
+        "total" : 3379,
+        "pageInPIT" : 3379
+      },
+      "prop_veterans15" : {
+        "unsheltered" : 0.05235464351486451,
+        "emergencyShelter" : 0.015259142330965536,
+        "transitionalHousing" : 0.043409629044988164,
+        "total" : 0.11102341489081821,
+        "pageInPIT" : 3801
+      },
+      "prop_NOT_veteran15" : {
+        "unsheltered" : 0.44409365956327285,
+        "emergencyShelter" : 0.21415416995527492,
+        "transitionalHousing" : 0.23072875559063405,
+        "total" : 0.8889765851091818,
+        "pageInPIT" : ""
+      }
+    },
+    "chronicHomelessness": {
+      "count_Chronically_homeless_individualAdults15" : {
+        "unsheltered" : 837,
+        "emergencyShelter" : 132,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      },
+      "count_Chronically_homeless_personWithChildren15" : {
+        "unsheltered" : 38,
+        "emergencyShelter" : 26,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      },
+      "count_NOT_chronically_Homeless_individualAdults15" : {
+        "unsheltered" : 896,
+        "emergencyShelter" : 525,
+        "Transitional" : 753,
+        "Total" : "",
+        "pageInPIT" : 3801
+      },
+      "count_NOT_Chronically_homeless_personWithChildren15" : {
+        "unsheltered" : 114,
+        "emergencyShelter" : 187,
+        "Transitional" : 288,
+        "Total" : "",
+        "pageInPIT" : ""
+      },
+      "count_Under18_CH_Unknown15" : {
+        "unsheltered" : 2,
+        "emergencyShelter" : 2,
+        "Transitional" : 1,
+        "Total" : "",
+        "pageInPIT" : ""
+      },
+      "prop_Chronically_homeless_individualAdults15" : {
+        "unsheltered" : 0.2202052091554854,
+        "emergencyShelter" : 0.03472770323599053,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      },
+      "prop_Chronically_homeless_personWithChildren15" : {
+        "unsheltered" : 0.009997369113391212,
+        "emergencyShelter" : 0.0068403051828466194,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      },
+      "prop_NOT_chronically_Homeless_individualAdults15" : {
+        "unsheltered" : 0.23572744014732966,
+        "emergencyShelter" : 0.13812154696132597,
+        "Transitional" : 0.19810576164167323,
+        "Total" : "",
+        "pageInPIT" : 1
+      },
+      "prop_NOT_Chronically_homeless_personWithChildren15" : {
+        "unsheltered" : 0.02999210734017364,
+        "emergencyShelter" : 0.04919757958431992,
+        "Transitional" : 0.07576953433307025,
+        "Total" : "",
+        "pageInPIT" : ""
+      },
+      "prop_Under18_CH_Unknown15" : {
+        "unsheltered" : 0.0005261773217574323,
+        "emergencyShelter" : 0.0005261773217574323,
+        "Transitional" : 0.00026308866087871614,
+        "Total" : "",
+        "pageInPIT" : ""
+      },
+      "count_total_CH_15" : {
+        "unsheltered" : 875,
+        "emergencyShelter" : 158,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      }
+    },
+    "domesticViolence": {
+      "count_female_NOT_DV15" : {
+        "unsheltered" : 231,
+        "emergencyShelter" : 163,
+        "transitionalHousing" : 158,
+        "total" : 552,
+        "pageInPIT" : 30
+      },
+      "women_NOT_DV15" : {
+        "unsheltered" : 363,
+        "emergencyShelter" : 202,
+        "transitionalHousing" : 221,
+        "total" : 786,
+        "pageInPIT" : ""
+      },
+      "count_total_female_DV15" : {
+        "unsheltered" : 594,
+        "emergencyShelter" : 365,
+        "transitionalHousing" : 379,
+        "total" : 1338,
+        "pageInPIT" : ""
+      },
+      "prop_female_DV15" : {
+        "unsheltered" : 0.1726457399103139,
+        "emergencyShelter" : 0.1218236173393124,
+        "transitionalHousing" : 0.11808669656203288,
+        "total" : 0.4125560538116592,
+        "pageInPIT" : ""
+      },
+      "prop_female_NOT_DV15" : {
+        "unsheltered" : 0.2713004484304933,
+        "emergencyShelter" : 0.15097159940209268,
+        "transitionalHousing" : 0.16517189835575485,
+        "total" : 0.5874439461883408,
+        "pageInPIT" : ""
+      },
+      "prop_total_female_DV15" : {
+        "unsheltered" : 0.4439461883408072,
+        "emergencyShelter" : 0.27279521674140506,
+        "transitionalHousing" : 0.28325859491778776,
+        "total" : 1,
+        "pageInPIT" : ""
+      }
+    },
+    "ageBreakdown": {
+      "underEighteen15 " : {
+        "unsheltered" : 78,
+        "emergencyShelter" : 131,
+        "transitionalHousing" : 165,
+        "total" : 374,
+        "pageInPIT" : 31
+      },
+      "eighteenToTwentyFour15" : {
+        "unsheltered" : 145,
+        "emergencyShelter" : 84,
+        "transitionalHousing" : 83,
+        "total" : 312,
+        "pageInPIT" : 31
+      },
+      "twentyFiveToFourtyFour15" : {
+        "unsheltered" : 783,
+        "emergencyShelter" : 291,
+        "transitionalHousing" : 353,
+        "total" : 1427,
+        "pageInPIT" : 31
+      },
+      "fourtyFiveToFiftyFour15" : {
+        "unsheltered" : 525,
+        "emergencyShelter" : 189,
+        "transitionalHousing" : 217,
+        "total" : 931,
+        "pageInPIT" : 31
+      },
+      "fiftyFiveToSixtyNine15" : {
+        "unsheltered" : 324,
+        "emergencyShelter" : 139,
+        "transitionalHousing" : 211,
+        "total" : 674,
+        "pageInPIT" : 31
+      },
+      "seventyPlus15" : {
+        "unsheltered" : 10,
+        "emergencyShelter" : 15,
+        "transitionalHousing" : 5,
+        "total" : 30,
+        "pageInPIT" : 31
+      },
+      "unknown15" : {
+        "unsheltered" : 22,
+        "emergencyShelter" : 23,
+        "transitionalHousing" : 8,
+        "total" : 53,
+        "pageInPIT" : 31
+      },
+      "TOTALS15" : {
+        "unsheltered" : 1887,
+        "emergencyShelter" : 872,
+        "transitionalHousing" : 1042,
+        "total" : 3801,
+        "pageInPIT" : ""
+      }
+    },
+    "sleepingLocation": {
+      "count_sleepingLocation15" : {
+        "streetSidewalk" : 696,
+        "privateProperty" : 185,
+        "vehicle" : 195,
+        "abandonedBuilding" : 48,
+        "park" : 74,
+        "woodsOpenSpace" : 144,
+        "bridge" : 150,
+        "boat" : 11,
+        "other" : 161,
+        "unknown" : 223,
+        "NOT_Outside" : 1914,
+        "pageInPIT" : 32,
+        "TOTAL" : 1887
+      },
+      "prop_sleepingLocation15" : {
+        "streetSidewalk" : 0.18310970797158643,
+        "privateProperty" : 0.04867140226256248,
+        "vehicle" : 0.05130228887134965,
+        "abandonedBuilding" : 0.012628255722178374,
+        "park" : 0.019468560905024992,
+        "woodsOpenSpace" : 0.037884767166535126,
+        "bridge" : 0.03946329913180742,
+        "boat" : 0.0028939752696658773,
+        "other" : 0.0423572744014733,
+        "unknown" : 0.05866877137595369,
+        "NOT_Outside" : 0.5035516969218626,
+        "pageInPIT" : "",
+        "TOTAL" : ""
+      }
+    },
+    "geographicLocation": {
+      "geographicLoc15" : {
+        "downtown" : 448,
+        "SEPotland" : 309,
+        "innerNEPortland" : 155,
+        "gresham" : 138,
+        "NWPortland" : 125,
+        "outerEPortland" : 126,
+        "SWPortland" : 133,
+        "NPortland" : 92,
+        "centralNEPortland" : 50,
+        "eastCounty" : 38,
+        "unknown" : 273,
+        "pageInPIT" : 33,
+        "TOTAL" : ""
+      }
+    },
+    "lengthOfHomelessness": {
+      "lengthOfHomelessness15" : {
+        "lessThan1Month" : 136,
+        "1To6Months" : 378,
+        "7To12Months" : 265,
+        "1To2Years" : 332,
+        "2To5Years" : 266,
+        "5To10Years" : 114,
+        "over10Years" : 54,
+        "pageInPIT" : 35
+      }
+    },
+    "lengthOfResidence": {
+      "lengthOfResidence%15" : {
+        "lessThan3Month" : 0.08,
+        "3MonthsTo1Year" : 0.13,
+        "1To2Years" : 0.07,
+        "over2Years" : 0.71,
+        "pageInPIT" : 36
+      }
+    },
+    "migrationHomelessness": {
+      "migrationHomeless15" : {
+        "numHomelessBeforeMigration" : 224,
+        "percentOfTotalUnshelteredPopulation" : 0.12,
+        "movedFromPortlandEastCounty" : 0.04,
+        "movedFromMetroArea" : 0.1,
+        "movedFromOutsideMetroArea" : 0.14,
+        "movedFromWashingtonOrCali" : 0.35,
+        "movedFromOtherPartUS" : 0.38,
+        "pageInPIT" : "36-37"
+      }
+    }
+
+
+  },
+  
+  "13PIT":{
+    "ethnicity": {
+      "ethnicity13" : {
+        "percentWhite" : 0.69,
+        "countWhite" : 2997,
+        "percentPopOfColor" : 0.45,
+        "countPopOfColor" : 2001,
+        "percentAI" : 0.09,
+        "countAI" : 386,
+        "percentAsian" : 0.02,
+        "countAsian" : 66,
+        "percentBlack" : 0.2,
+        "countBlack" : 864,
+        "percentLatino" : 0.13,
+        "countLatino" : 572,
+        "percentHawaiian" : 0.03,
+        "countHawaiian" : 113,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 108,
+        "pageInPIT" : 29
+      },
+      "ethUnsheltered13" : {
+        "percentWhite" : 0.75,
+        "countWhite" : 1389,
+        "percentPopOfColor" : 0.38,
+        "countPopOfColor" : 711,
+        "percentAI" : 0.08,
+        "countAI" : 144,
+        "percentAsian" : 0.01,
+        "countAsian" : 19,
+        "percentBlack" : 0.14,
+        "countBlack" : 267,
+        "percentLatino" : 0.13,
+        "countLatino" : 237,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 44,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 41,
+        "pageInPIT" : 31
+      },
+      "ethEmergencyShelter13" : {
+        "percentWhite" : 0.61,
+        "countWhite" : 561,
+        "percentPopOfColor" : 0.51,
+        "countPopOfColor" : 494,
+        "percentAI" : 0.08,
+        "countAI" : 77,
+        "percentAsian" : 0.02,
+        "countAsian" : 20,
+        "percentBlack" : 0.27,
+        "countBlack" : 243,
+        "percentLatino" : 0.12,
+        "countLatino" : 113,
+        "percentHawaiian" : 0.04,
+        "countHawaiian" : 41,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 60,
+        "pageInPIT" : 31
+      },
+      "ethTransitionalHousing13" : {
+        "percentWhite" : 0.67,
+        "countWhite" : 1047,
+        "percentPopOfColor" : 0.51,
+        "countPopOfColor" : 796,
+        "percentAI" : 0.11,
+        "countAI" : 165,
+        "percentAsian" : 0.02,
+        "countAsian" : 27,
+        "percentBlack" : 0.23,
+        "countBlack" : 354,
+        "percentLatino" : 0.14,
+        "countLatino" : 222,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 28,
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : 7,
+        "pageInPIT" : 31
+      }  
+    },
+    "ageHouseComposition": {
+    },
+    "gender": {
+    },
+    "disability": {  
+    },
+    "veterans": {
+      "count_veterans13" : {
+        "unsheltered" : 215,
+        "emergencyShelter" : 50,
+        "transitionalHousing" : 148,
+        "total" : 413,
+        "pageInPIT" : 29
+      },
+      "count_NOT_veteran13" : {
+        "unsheltered" : "",
+        "emergencyShelter" : "",
+        "transitionalHousing" : "",
+        "total" : "",
+        "pageInPIT" : ""
+      },
+      "prop_veterans13" : {
+        "unsheltered" : "",
+        "emergencyShelter" : "",
+        "transitionalHousing" : "",
+        "total" : "",
+        "pageInPIT" : ""
+      },
+      "prop_NOT_veteran13" : {
+        "unsheltered" : "",
+        "emergencyShelter" : "",
+        "transitionalHousing" : "",
+        "total" : "",
+        "pageInPIT" : ""
+      }
+    },
+    "chronicHomelessness": {
+      "count_individualAdults13" : {
+        "unsheltered" : 988,
+        "emergencyShelter" : 48,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      },
+      "count_personWithChildren13" : {
+        "unsheltered" : 4,
+        "emergencyShelter" : 48,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      },
+      "count_total_13" : {
+        "unsheltered" : 992,
+        "emergencyShelter" : 158,
+        "Transitional" : 0,
+        "Total" : "",
+        "pageInPIT" : 28
+      }
+    },
+    "domesticViolence": {     
+    },
+    "ageBreakdown": {
+    },
+    "sleepingLocation": {   
+    },
+    "geographicLocation": {  
+    },
+    "lengthOfHomelessness": {   
+    },
+    "lengthOfResidence": {
+
+    },
+    "migrationHomelessness": {
+      
+    }
+  },
+
+  "11PIT":{
+    "ethnicity": {
+      "ethnicity11" : {
+        "percentWhite" : 0.67,
+        "countWhite" : 2955,
+        "percentPopOfColor" : 0.46,
+        "countPopOfColor" : 2054,
+        "percentAI" : 0.09,
+        "countAI" : 393,
+        "percentAsian" : 0.01,
+        "countAsian" : 52,
+        "percentBlack" : 0.18,
+        "countBlack" : 788,
+        "percentLatino" : 0.12,
+        "countLatino" : 522,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 78,
+        "percentMultiracial" : 0.05,
+        "countMultiracial" : 221,
+        "infoNotProvidedCount" : 210,
+        "pageInPIT" : 27
+      },
+      "ethUnsheltered11" : {
+        "percentWhite" : 0.76,
+        "countWhite" : 1150,
+        "percentPopOfColor" : 0.34,
+        "countPopOfColor" : 517,
+        "percentAI" : 0.09,
+        "countAI" : 143,
+        "percentAsian" : 0.01,
+        "countAsian" : 12,
+        "percentBlack" : 0.1,
+        "countBlack" : 155,
+        "percentLatino" : 0.1,
+        "countLatino" : 154,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 24,
+        "percentMultiracial" : 0.02,
+        "countMultiracial" : 29,
+        "infoNotProvidedCount" : 210,
+        "pageInPIT" : 27
+      },
+      "ethEmergencyShelter11" : {
+        "percentWhite" : 0.71,
+        "countWhite" : 715,
+        "percentPopOfColor" : 0.42,
+        "countPopOfColor" : 427,
+        "percentAI" : 0.06,
+        "countAI" : 57,
+        "percentAsian" : 0.01,
+        "countAsian" : 13,
+        "percentBlack" : 0.19,
+        "countBlack" : 188,
+        "percentLatino" : 0.11,
+        "countLatino" : 115,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 17,
+        "percentMultiracial" : 0.04,
+        "countMultiracial" : 37,
+        "infoNotProvidedCount" : "NA",
+        "pageInPIT" : 27
+      },
+      "ethTransitionalHousing11" : {
+        "percentWhite" : 0.57,
+        "countWhite" : 1090,
+        "percentPopOfColor" : 0.58,
+        "countPopOfColor" : 1110,
+        "percentAI" : 0.1,
+        "countAI" : 193,
+        "percentAsian" : 0.01,
+        "countAsian" : 27,
+        "percentBlack" : 0.23,
+        "countBlack" : 445,
+        "percentLatino" : 0.13,
+        "countLatino" : 253,
+        "percentHawaiian" : 0.02,
+        "countHawaiian" : 37,
+        "percentMultiracial" : 0.08,
+        "countMultiracial" : 155,
+        "infoNotProvidedCount" : "NA",
+        "pageInPIT" : 27
+      }     
+    },
+    "ageHouseComposition": {
+    },
+    "gender": {
+      "count_totalMale11" : {
+        "unsheltered" : 1261,
+        "emergencyShelter" : 637,
+        "transitionalHousing" : 993,
+        "total" : 2890,
+        "pageInPIT" : 24
+      },
+      "count_totalFemale11" : {
+        "unsheltered" : 422,
+        "emergencyShelter" : 365,
+        "transitionalHousing" : 926,
+        "total" : 1713,
+        "pageInPIT" : 24
+      },
+      "count_totalTrans11" : {
+        "unsheltered" : 5,
+        "emergencyShelter" : 0,
+        "transitionalHousing" : 0,
+        "total" : 5,
+        "pageInPIT" : 24
+      },
+      "count_totalOther11" : {
+        "unsheltered" : 30,
+        "emergencyShelter" : 7,
+        "transitionalHousing" : 10,
+        "total" : 47,
+        "pageInPIT" : 24
+      },
+      "count_childMale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_childFemale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_childTrans11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_childOther11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_adultMale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_adultFemale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_adultTrans11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "count_adultOther11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_totalMale11" : {
+        "unsheltered" : 0.27089151450053706,
+        "emergencyShelter" : 0.1368421052631579,
+        "transitionalHousing" : 0.21331901181525242,
+        "total" : 0.6208378088077336,
+        "pageInPIT" : ""
+      },
+      "prop_totalFemale11" : {
+        "unsheltered" : 0.09065520945220193,
+        "emergencyShelter" : 0.07841031149301826,
+        "transitionalHousing" : 0.19892588614393125,
+        "total" : 0.36799140708915146,
+        "pageInPIT" : ""
+      },
+      "prop_totalTrans11" : {
+        "unsheltered" : 0.0010741138560687433,
+        "emergencyShelter" : 0,
+        "transitionalHousing" : 0,
+        "total" : 0.0010741138560687433,
+        "pageInPIT" : ""
+      },
+      "prop_totalOther11" : {
+        "unsheltered" : 0.00644468313641246,
+        "emergencyShelter" : 0.0015037593984962407,
+        "transitionalHousing" : 0.0021482277121374865,
+        "total" : 0.010096670247046188,
+        "pageInPIT" : ""
+      },
+      "prop_childMale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_childFemale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_childTrans11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_childOther11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_adultMale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_adultFemale11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_adultTrans11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      },
+      "prop_adultOther11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "transitionalHousing" : "n/a",
+        "total" : "n/a",
+        "pageInPIT" : ""
+      }
+    },
+    "disability": {
+      "count_disablingCondition11" : {
+        "unsheltered" : 937,
+        "emergencyShelter" : 429,
+        "transitionalHousing" : 979,
+        "total" : 2345,
+        "pageInPIT" : 25
+      },
+      "count_NOT_disablingCondition11" : {
+        "unsheltered" : 781,
+        "emergencyShelter" : 580,
+        "transitionalHousing" : 949,
+        "total" : 2310,
+        "pageInPIT" : 5
+      },
+      "prop_disablingCondition11" : {
+        "unsheltered" : 0.2012889366272825,
+        "emergencyShelter" : 0.09215896885069817,
+        "transitionalHousing" : 0.21031149301825994,
+        "total" : 0.5037593984962406,
+        "pageInPIT" : ""
+      },
+      "prop_NOT_disablingCondition11" : {
+        "unsheltered" : 0.1677765843179377,
+        "emergencyShelter" : 0.12459720730397422,
+        "transitionalHousing" : 0.20386680988184747,
+        "total" : 0.49624060150375937,
+        "pageInPIT" : ""
+      }  
+    },
+    "veterans": {
+      "count_veterans11" : {
+        "unsheltered" : 221,
+        "emergencyShelter" : 135,
+        "transitionalHousing" : 108,
+        "total" : 464,
+        "pageInPIT" : ""
+      },
+      "count_NOT_veteran11" : {
+        "unsheltered" : 1497,
+        "emergencyShelter" : 874,
+        "transitionalHousing" : 1820,
+        "total" : 4191,
+        "pageInPIT" : 5
+      },
+      "prop_veterans11" : {
+        "unsheltered" : 0.047475832438238455,
+        "emergencyShelter" : 0.02900107411385607,
+        "transitionalHousing" : 0.023200859291084855,
+        "total" : 0.09967776584317938,
+        "pageInPIT" : ""
+      },
+      "prop_NOT_veteran11" : {
+        "unsheltered" : 0.3215896885069817,
+        "emergencyShelter" : 0.18775510204081633,
+        "transitionalHousing" : 0.39097744360902253,
+        "total" : 0.9003222341568207,
+        "pageInPIT" : ""
+      }
+    },
+    "chronicHomelessness": {
+      "count_Chronically_homeless_individualAdults11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 643,
+        "pageInPIT" : 18
+      },
+      "count_Chronically_homeless_personWithChildren11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 13,
+        "pageInPIT" : 18
+      },
+      "count_Chronically_homeless_inCoupleWOChildren11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 126,
+        "pageInPIT" : 18
+      },
+      "count_Chronically_homeless_youth_under_18_11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 4,
+        "pageInPIT" : 18
+      },
+      "prop_Chronically_homeless_individualAdults11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 0.8180661577608143,
+        "pageInPIT" : ""
+      },
+      "prop_Chronically_homeless_personWithChildren11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 0.01653944020356234,
+        "pageInPIT" : ""
+      },
+      "prop_NOT_chronically_Homeless_individualAdults11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 0.16030534351145037,
+        "pageInPIT" : ""
+      },
+      "prop_NOT_Chronically_homeless_personWithChildren11" : {
+        "unsheltered" : "n/a",
+        "emergencyShelter" : "n/a",
+        "Transitional" : "n/a",
+        "Total" : 0.005089058524173028,
+        "pageInPIT" : ""
+      }
+    },
+    "domesticViolence": {
+      "count_All_DV11" : {
+        "unsheltered" : 299,
+        "emergencyShelter" : 187,
+        "transitionalHousing" : 367,
+        "total" : 853,
+        "pageInPIT" : 26
+      },
+      "count_All_NOT_DV11" : {
+        "unsheltered" : 1419,
+        "emergencyShelter" : 822,
+        "transitionalHousing" : 1561,
+        "total" : 3802,
+        "pageInPIT" : 5
+      },
+      "count_total_All_DV11" : {
+        "unsheltered" : 1718,
+        "emergencyShelter" : 1009,
+        "transitionalHousing" : 1928,
+        "total" : 4655,
+        "pageInPIT" : 5
+      },
+      "prop_total_DV11" : {
+        "unsheltered" : 0.06423200859291085,
+        "emergencyShelter" : 0.040171858216971,
+        "transitionalHousing" : 0.07883995703544576,
+        "total" : 0.1832438238453276,
+        "pageInPIT" : ""
+      },
+      "prop_NOT_DV11" : {
+        "unsheltered" : 0.3048335123523093,
+        "emergencyShelter" : 0.1765843179377014,
+        "transitionalHousing" : 0.33533834586466166,
+        "total" : 0.8167561761546724,
+        "pageInPIT" : ""
+      },
+      "prop_total_All_DV11" : {
+        "unsheltered" : 0.3690655209452202,
+        "emergencyShelter" : 0.2167561761546724,
+        "transitionalHousing" : 0.41417830290010743,
+        "total" : 1,
+        "pageInPIT" : ""
+      },
+      "count_female_DV11" : {
+        "unsheltered" : 161,
+        "emergencyShelter" : 157,
+        "transitionalHousing" : 279,
+        "total" : 597,
+        "pageInPIT" : ""
+      },
+      "count_female_NOT_DV11" : {
+        "unsheltered" : 261,
+        "emergencyShelter" : 208,
+        "transitionalHousing" : 647,
+        "total" : 1116,
+        "pageInPIT" : 26
+      },
+      "count_total_female_DV11" : {
+        "unsheltered" : 422,
+        "emergencyShelter" : 365,
+        "transitionalHousing" : 926,
+        "total" : 1713,
+        "pageInPIT" : ""
+      },
+      "prop_female_DV11" : {
+        "unsheltered" : 0.09398715703444249,
+        "emergencyShelter" : 0.09165207238762405,
+        "transitionalHousing" : 0.1628721541155867,
+        "total" : 0.34851138353765326,
+        "pageInPIT" : 24
+      },
+      "prop_female_NOT_DV11" : {
+        "unsheltered" : 0.15236427320490367,
+        "emergencyShelter" : 0.12142440163455925,
+        "transitionalHousing" : 0.37769994162288384,
+        "total" : 0.6514886164623468,
+        "pageInPIT" : ""
+      },
+      "prop_total_female_DV11" : {
+        "unsheltered" : 0.24635143023934616,
+        "emergencyShelter" : 0.2130764740221833,
+        "transitionalHousing" : 0.5405720957384705,
+        "total" : 1,
+        "pageInPIT" : ""
+      }
+    },
+    "ageBreakdown": {
+      "underEighteen11" : {
+        "unsheltered" : 64,
+        "emergencyShelter" : 152,
+        "transitionalHousing" : 559,
+        "total" : 775,
+        "pageInPIT" : 23
+        },
+      "eighteenToTwentyThree11" : {
+        "unsheltered" : 147,
+        "emergencyShelter" : 83,
+        "transitionalHousing" : 204,
+        "total" : 434,
+        "pageInPIT" : 23
+      },
+      "twentyFourToFourtyFour11" : {
+        "unsheltered" : 698,
+        "emergencyShelter" : 271,
+        "transitionalHousing" : 659,
+        "total" : 1628,
+        "pageInPIT" : 23
+      },
+      "fourtyFiveToFiftyFour11" : {
+        "unsheltered" : 534,
+        "emergencyShelter" : 336,
+        "transitionalHousing" : 332,
+        "total" : 1202,
+        "pageInPIT" : 23
+      },
+      "fiftyFiveToSixtyNine11" : {
+        "unsheltered" : 234,
+        "emergencyShelter" : 135,
+        "transitionalHousing" : 149,
+        "total" : 518,
+        "pageInPIT" : 23
+      },
+      "seventyPlus11" : {
+        "unsheltered" : 6,
+        "emergencyShelter" : 3,
+        "transitionalHousing" : 2,
+        "total" : 11,
+        "pageInPIT" : 23
+      },
+      "unknown11" : {
+        "unsheltered" : "",
+        "emergencyShelter" : "",
+        "transitionalHousing" : "",
+        "total" : "",
+        "pageInPIT" : 23
+      },
+      "TOTALS11" : {
+        "unsheltered" : 1683,
+        "emergencyShelter" : 980,
+        "transitionalHousing" : 1905,
+        "total" : 4568,
+        "pageInPIT" : ""
+      }
+    },
+    "sleepingLocation": {
+      "count_sleepingLocation11" : {
+        "streetSidewalk" : 780,
+        "privateProperty" : 235,
+        "vehicle" : 150,
+        "abandonedBuilding" : 39,
+        "park" : 74,
+        "woodsOpenSpace" : 127,
+        "bridge" : 193,
+        "boat" : "",
+        "other" : 120,
+        "unknown" : "",
+        "NOT_Outside" : 2937,
+        "pageInPIT" : 15,
+        "TOTAL" : 1718
+      },
+      "prop_sleepingLocation11" : {
+        "streetSidewalk" : 0.16756176154672395,
+        "privateProperty" : 0.050483351235230935,
+        "vehicle" : 0.0322234156820623,
+        "abandonedBuilding" : 0.008378088077336197,
+        "park" : 0.0158968850698174,
+        "woodsOpenSpace" : 0.02728249194414608,
+        "bridge" : 0.04146079484425349,
+        "boat" : "",
+        "other" : 0.02577873254564984,
+        "unknown" : "",
+        "NOT_Outside" : 0.6309344790547798,
+        "pageInPIT" : "",
+        "TOTAL" : ""
+      }
+    },
+    "geographicLocation": {
+      "count_geographicLoc11" : {
+        "downtown" : 347,
+        "SEPotland" : 394,
+        "innerNEPortland" : 149,
+        "gresham" : "",
+        "NWPortland" : 189,
+        "outerEPortland" : 103,
+        "SWPortland" : 152,
+        "NPortland" : 89,
+        "centralNEPortland" : 45,
+        "eastCounty" : 92,
+        "unknown" : 158,
+        "pageInPIT" : 16,
+        "TOTAL" : 1718
+      }
+    },
+    "lengthOfHomelessness": {
+      "lengthOfHomelessness%11" : {
+        "lessThan1Month" : 0.03,
+        "1To6Months" : 0.15,
+        "7To12Months" : 0.18,
+        "1To2Years" : 0.18,
+        "2To5Years" : 0.24,
+        "5To10Years" : 0.15,
+        "over10Years" : 0.07,
+        "pageInPIT" : 17
+      }
+    },
+    "lengthOfResidence": {
+        "lengthOfResidence%11" : {
+        "1To6Months" : 0.09,
+        "7To12Months" : 0.05,
+        "1To2Years" : 0.07,
+        "2To10Years" : 0.26,
+        "moreThan10Years" : 0.52
+      }
+    },
+    "migrationHomelessness": {
+      
+    }
+    
+  },
+
+  "09PIT":{
+    "ethnicity": {
+        "ethnicity09" : {
+        "percentWhite" : 0.67,
+        "countWhite" : 1066,
+        "percentPopOfColor" : "NA",
+        "countPopOfColor" : "NA",
+        "percentAI" : 0.09,
+        "countAI" : 143,
+        "percentAsian" : "<1%",
+        "countAsian" : "NA",
+        "percentBlack" : 0.12,
+        "countBlack" : 191,
+        "percentLatino" : 0.09,
+        "countLatino" : 143,
+        "percentHawaiian" : "<1%",
+        "countHawaiian" : "NA",
+        "percentMultiracial" : "NA",
+        "countMultiracial" : "NA",
+        "infoNotProvidedCount" : "NA",
+        "pageInPIT" : 12
+      }
+    },
+    "ageHouseComposition": {
+    },
+    "gender": {
+    },
+    "disability": {  
+    },
+    "veterans": {
+    },
+    "chronicHomelessness": {
+    },
+    "domesticViolence": {
+    },
+    "ageBreakdown": {
+    },
+    "sleepingLocation": {   
+    },
+    "geographicLocation": {    
+    },
+    "lengthOfHomelessness": {
+      "lengthOfHomelessness%09" : {
+        "lessThan1Month" : 0.07,
+        "1To6Months" : 0.14,
+        "7To12Months" : 0.16,
+        "1To2Years" : 0.16,
+        "2To5Years" : 0.24,
+        "5To10Years" : 0.08,
+        "over10Years" : 0.14,
+        "pageInPIT" : 17
+      }
+    },
+    "lengthOfResidence": {
+      
+    },
+    "migrationHomelessness": {
+      
+    }
+  }
+}
+
+
+
+
