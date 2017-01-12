@@ -1547,6 +1547,20 @@
     "disability": {  
     },
     "veterans": {
+      "count_veterans09" : {
+        "unsheltered" : "NA",
+        "emergencyShelter" : "NA",
+        "transitionalHousing" : "NA",
+        "total" : 192,
+        "pageInPIT" : 12
+      },
+      "prop_veterans09" : {
+        "unsheltered" : "NA",
+        "emergencyShelter" : "NA",
+        "transitionalHousing" : "NA",
+        "total" : 0.12,
+        "pageInPIT" : 12
+      }
     },
     "chronicHomelessness": {
     },
@@ -1554,7 +1568,37 @@
     },
     "ageBreakdown": {
     },
-    "sleepingLocation": {   
+    "sleepingLocation": {
+      "count_sleepingLocation09" : {
+        "streetSidewalk" : 1321,
+        "privateProperty" : "NA",
+        "vehicle" : 95,
+        "abandonedBuilding" : 32,
+        "park" : "NA",
+        "woodsOpenSpace" : 1,
+        "bridge" : "NA",
+        "boat" : "NA",
+        "other" : 142,
+        "unknown" : "NA",
+        "NOT_Outside" : "NA",
+        "pageInPIT" : "",
+        "TOTAL" : 1591
+      },
+      "prop_sleepingLocation09" : {
+        "streetSidewalk" : 0.83,
+        "privateProperty" : "NA",
+        "vehicle" : 0.06,
+        "abandonedBuilding" : 0.02,
+        "park" : "NA",
+        "woodsOpenSpace" : "<1%",
+        "bridge" : "NA",
+        "boat" : "NA",
+        "other" : 0.09,
+        "unknown" : "NA",
+        "NOT_Outside" : "NA",
+        "pageInPIT" : 13,
+        "TOTAL" : ""
+      }   
     },
     "geographicLocation": {    
     },
